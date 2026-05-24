@@ -1,4 +1,3 @@
-Here is a very detailed README for the pre-event that students can keep and refer back to throughout the competition.
 
 ---
 # AWS Sprint Pre-Games: Complete Account Setup Guide
